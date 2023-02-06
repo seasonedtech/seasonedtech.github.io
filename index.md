@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Your solution starts here'
+landing-title: 'Your solution starts here!'
 description: null
 image: null
 author: null
